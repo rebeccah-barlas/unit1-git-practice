@@ -1,79 +1,120 @@
 ### Step 2A
-
+/c/Users/barla
 
 ### Step 2B
-
+cd OneDrive
+cd Desktop
+(My desktop folder is unable to be removed from my One Drive, so I had to access the desktop folder this way)
 
 ### Step 2C
-
+cd unit1-git-practice
 
 ### Step 2D
-
+/OneDrive/desktop/unit1-git-practice
 
 ### Step 2E
-
+ls
 
 ### Step 2F
-
+my-steps.txt
 
 ### Step 2G
-
+cd /
 
 ### Step 2H
-
+/c/Users/barla/OneDrive/Desktop/unit1-git-practice
 
 ### Step 2I
-
+AppData/
+'Application Data'@
+Contacts/
+Cookies@
+Downloads/
+Favorites/
+Links
+'Local Settings'@
+Music/
+'My Documents'@
+NTUSER.DAT
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79},TM.blf
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79},TMContainer0000000000000000000
+1.regtrans-ms
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79},TMContainer0000000000000000000
+2. regtrans-ms
+NetHood@
+OneDrive/
+PrintHood@
+Recent@
+'Saved Games'/
+Searches/
+SendTo@
+'Start Menu'@
+Templates@
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+source/
+trash/
 
 ### Step 2J
-
+cd ~
 
 ### Step 2K
-
-
+cd OneDrive
+cd desktop
+cd unit1-git-practice
 
 ### Step 3A
-
+mkdir veggies
+mkdir meats
+mkdir desserts
 
 ### Step 3B
-
+mv desserts sweets
 
 ### Step 3C
-
+mkdir proteins
 
 ### Step 3D
-
+mv meats proteins
 
 ### Step 3E
-
+cd veggies
+touch carrot.txt
+touch pea.txt
 
 ### Step 3F
-
+cd ..
+cd sweets
+touch cookie.txt
 
 ### Step 3G
-
+mv cookie.txt donut.txt
 
 ### Step 3H
-
+touch thing.txt
 
 ### Step 3I
-
+cp thing.txt tofu.txt
 
 ### Step 3J
-
+mv tofu.txt proteins
 
 ### Step 3K
-
+mv crab.txt proteins
+cd proteins
+mv crab.txt meats
 
 ### Step 3L
-
+rm thing.txt
 
 ### Step 3M
-
+cp -r veggies plants
 
 ### Step 3N
-
-
+mkdir drinks
+rm -r drinks
 
 ### Step 4
 

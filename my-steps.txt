@@ -117,10 +117,17 @@ mkdir drinks
 rm -r drinks
 
 ### Step 4
-
+cd OneDrive
+cd desktop
+cd unit1-git-practice
+git init
+git add .
+git commit -m 'first commit'
 
 ### Step 5
-
+git remote add origin https://github.com/rebeccah-barlas/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
